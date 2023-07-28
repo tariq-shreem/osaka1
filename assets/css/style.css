@@ -62,6 +62,9 @@
     position: relative;
 }
 
+.services .services-item{
+    background-color:#fff;
+}
 .services .services-item h3:after{
 
     content: '';
